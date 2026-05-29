@@ -37,8 +37,6 @@ Email_Responsavel: O e-mail da pessoa que receberá a notificação.
 Configuração de Variáveis (Segurança):
 No arquivo automacao_partner.py, atualize as variáveis de caminho dos arquivos Excel.
 
-⚠️ MUITO IMPORTANTE: Nunca coloque a sua senha de e-mail real diretamente no código, especialmente se o repositório for público. Recomenda-se o uso de variáveis de ambiente (.env) para gerir credenciais (ex: EMAIL_SENHA).
-
 ⚙️ Como Executar
 Após configurar a planilha e as credenciais, basta correr o script no terminal:
 
